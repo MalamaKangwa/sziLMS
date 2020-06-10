@@ -1,0 +1,8 @@
+2020-04-16 16:13:53.3378 INFO User with id: bd5f82f2-318b-448e-d23f-08d7e147c21a doesn't exist in the database.
+2020-04-16 16:28:50.9155 INFO submission: Entities.DataTransferObjectsForUpdate.SubmissionForUpdateDto
+2020-04-16 16:28:50.9748 INFO submission Entity: Entities.Models.Submission
+2020-04-16 16:29:54.7118 INFO submission: 81%
+2020-04-16 16:29:54.7820 INFO submission Entity: 75%
+2020-04-16 16:30:41.7946 INFO submission: 81%
+2020-04-16 16:30:41.8490 INFO submission Entity: 81%
+2020-04-16 16:37:54.7812 INFO User with id: 9eed3619-f432-4c99-23d7-08d7e20e8b08 doesn't exist in the database.
